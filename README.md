@@ -1,3 +1,3 @@
 # prolog-exercise
 
-Facts & fules
+Facts & rules
